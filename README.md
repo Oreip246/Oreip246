@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hey, I'm Piero 👋
 
-<!--
-**Oreip246/Oreip246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 15-year-old developer. I like building stuff, figuring out how things work, and occasionally optimizing things way too much.
 
-Here are some ideas to get you started:
+- 🐍 Python is my absolute favorite.
+- ⚡ C++ (still learning, but getting there!).
+- 🌐 HTML & a bit of CSS for when I need to throw together a web page.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What else?
+When I'm not coding, you can probably find me:
+- Diving into physics and math problems just for fun 📐
+- Expanding my base in Factorio (the factory must grow) 🏭
+
+Feel free to check out my repos or reach out!
